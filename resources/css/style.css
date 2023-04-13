@@ -30,3 +30,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
 }
+
+
+.footer{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
